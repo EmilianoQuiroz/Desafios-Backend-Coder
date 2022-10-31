@@ -1,0 +1,20 @@
+[                                                                                                                                                     
+    {                                                                                                                                                    
+      title: 'Producto de prueba',                                                                                                                                 
+      price: 1234,                                                                                                                                     
+      thumbnail: 'http://sjkdnfkasdn',                                     
+      id: 1                                                                                                                                              
+    },                                                                                                                                                   
+    {                                                                                                                                                    
+      title: 'Producto de prueba',                                                                                                                              
+      price: 1234,                                                                                                                                     
+      thumbnail: 'http://sjkdnfkasdn',                                          
+      id: 2                                                                                                                                              
+    },                                                                                                                                                   
+    {                                                                                                                                                    
+      title: 'Producto de prueba',                                                                                                                          
+      price: 1234,                                                                                                                                     
+      thumbnail: 'http://sjkdnfkasdn',                                   
+      id: 3                                                                                                                                              
+    }                                                                                                                                                    
+  ] 
